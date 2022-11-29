@@ -1,8 +1,12 @@
 .test{
   float: left;
-  width: 300px;
+  width: 350px;
 }
 
 .title{
   text-align: center;
+}
+
+body{
+  background-color:lightpink;
 }
