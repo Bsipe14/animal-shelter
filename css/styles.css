@@ -10,3 +10,17 @@
 body{
   background-color:lightpink;
 }
+
+h1{
+font-family: fantasy;
+}
+
+p{
+  font-family: sans-serif;
+}
+
+.pet{
+  border: 4px solid teal;
+  padding: 10px;
+  background-color: aqua;
+}
